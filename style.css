@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+input {
+    padding: 1em;
+    border-radius: 1em;
+}
+
+div {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+header {
+    text-align: right;
+}
+
+a {
+    margin: 1em;
+}
