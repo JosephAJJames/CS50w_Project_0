@@ -23,4 +23,10 @@ header {
 
 a {
     margin: 1em;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
 }
